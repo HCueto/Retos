@@ -3,7 +3,7 @@ import mysql.connector
 # Datos de conexión
 username = 'root'
 password = '1234'
-host = '172.17.0.3'
+host = '172.17.0.2'
 database = 'CochesDB'
 
 # Conectar a la base de datos
